@@ -224,7 +224,7 @@ const openSource = {
 // Some big projects
 
 const bigProjects = {
-  title: "Big Projects",
+  title: "Live Mobile Apps",
   subtitle: "SOME APPS THAT I CREATED AND RELEASED",
   projects: [
     {
