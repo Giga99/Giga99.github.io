@@ -289,6 +289,10 @@ const achievementSection = {
         {
           name: "After Hackathon interview",
           url: "https://www.youtube.com/watch?v=YO8lDmd8Qvk"
+        },
+        {
+          name: "Winning team impressions",
+          url: "https://quantox.com/blog/how-are-whois-mobile-applications-made/"
         }
       ]
     },
