@@ -16,7 +16,7 @@ export default function Projects() {
 
   useEffect(() => {
     const getRepoData = () => {
-      fetch("/profile.json")
+      fetch("./profile.json")
         .then(result => {
           if (result.ok) {
             return result.json();
@@ -36,8 +36,6 @@ export default function Projects() {
     getRepoData();
   }, []);
 
-  console.log(repo);
-  console.log(openSource);
   function setrepoFunction(array) {
     setrepo(array);
   }
