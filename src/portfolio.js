@@ -287,7 +287,7 @@ const achievementSection = {
           url: "https://www.youtube.com/watch?v=AyFjmfd9s9Y"
         },
         {
-          name: "After Hackathon interview (Turn on captions for English subtitle)",
+          name: "After Hackathon interview",
           url: "https://www.youtube.com/watch?v=YO8lDmd8Qvk"
         }
       ]
