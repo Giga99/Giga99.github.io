@@ -1,5 +1,5 @@
-import React, {useState, useEffect, lazy, Suspense} from "react";
-import {openSource} from "../../portfolio";
+import React, { useState, useEffect, lazy, Suspense } from "react";
+import { openSource } from "../../portfolio";
 import Contact from "../contact/Contact";
 import Loading from "../loading/Loading";
 
@@ -36,6 +36,7 @@ export default function Profile() {
       getProfileData();
     }
   }, []);
+  console.log(prof);
   if (
     openSource.display &&
     openSource.showGithubProfile === "true" &&
