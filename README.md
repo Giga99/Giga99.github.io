@@ -13,6 +13,6 @@
   <a href="https://ashutoshhathidara.com/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 </p>
 
-This is my Portfolio website made with HTML5, SCSS, JavaScript and using React framework.
+This is my Portfolio website made with HTML5, SCSS, JavaScript, and React framework.
 
 Website shows my experience, skills, achievements, big projects and so on.
