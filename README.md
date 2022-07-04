@@ -37,3 +37,7 @@ To view a website, **[click here](https://giga99.github.io/portfolio-website/)**
 - [react-easy-emoji](https://github.com/appfigures/react-easy-emoji)
 - [react-headroom](https://github.com/KyleAMathews/react-headroom)
 - [color-thief](https://github.com/lokesh/color-thief)
+
+# License 📄
+
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
