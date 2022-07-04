@@ -40,4 +40,4 @@ To view a website, **[click here](https://giga99.github.io/portfolio-website/)**
 
 # License 📄
 
-This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Giga99/portfolio-website/blob/main/LICENCE.md) file for details.
