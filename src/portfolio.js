@@ -117,7 +117,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "sql-database",
+      skillName: "mongo-database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
@@ -128,6 +128,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "python",
       fontAwesomeClassname: "fab fa-python"
     },
+    {
+      skillName: "sql-database",
+      fontAwesomeClassname: "fas fa-database"
+    }
   ],
   display: true
 };
