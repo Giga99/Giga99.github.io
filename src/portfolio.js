@@ -333,7 +333,7 @@ const blogSection = {
       description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: true
+  display: false
 };
 
 // Talks Sections
