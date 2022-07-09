@@ -320,7 +320,7 @@ const achievementSection = {
 const blogSection = {
   title: "Blogs",
   subtitle: "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
-  displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
+  displayMediumBlogs: "true",
   blogs: [
     {
       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
@@ -333,7 +333,7 @@ const blogSection = {
       description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
     }
   ],
-  display: false
+  display: true
 };
 
 // Talks Sections
