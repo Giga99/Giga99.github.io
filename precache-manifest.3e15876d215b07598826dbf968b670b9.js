@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a35792a83d7db67530ef4851032413ed",
+    "revision": "af8ad9df5fe97ced0bb665aac837deee",
     "url": "/portfolio-website/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-website/static/css/4.cad183c3.chunk.css"
   },
   {
-    "revision": "54fc4755ee81ed95db01",
-    "url": "/portfolio-website/static/css/main.26298496.chunk.css"
+    "revision": "4c42d9efa4c21c2ffed9",
+    "url": "/portfolio-website/static/css/main.e414a0b8.chunk.css"
   },
   {
     "revision": "7dfeb1a8585fffcbd656",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-website/static/js/4.9d253d99.chunk.js"
   },
   {
-    "revision": "54fc4755ee81ed95db01",
-    "url": "/portfolio-website/static/js/main.b9d66b35.chunk.js"
+    "revision": "4c42d9efa4c21c2ffed9",
+    "url": "/portfolio-website/static/js/main.a7ed615c.chunk.js"
   },
   {
     "revision": "af945052342951aa73cf",
@@ -52,20 +52,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio-website/static/media/developerActivity.59389695.svg"
   },
   {
-    "revision": "681a7da7625604e628c2bdbd4ca3c1b9",
-    "url": "/portfolio-website/static/media/domainmoneyLogo.681a7da7.png"
+    "revision": "b328d0342cec4a83799a16253a532bd7",
+    "url": "/portfolio-website/static/media/domainmoneyLogo.b328d034.webp"
   },
   {
-    "revision": "bee0aba060e8acdae7b49b34430fea6f",
-    "url": "/portfolio-website/static/media/etfLogo.bee0aba0.png"
+    "revision": "45a268e32ba2c4cf515ff2816db3c91a",
+    "url": "/portfolio-website/static/media/etfLogo.45a268e3.webp"
   },
   {
-    "revision": "1115a8ef938eab1573b9bedafff3badd",
-    "url": "/portfolio-website/static/media/fonHackathonLogo.1115a8ef.png"
+    "revision": "ac38f4135e5d9e998056debbda8c4eaf",
+    "url": "/portfolio-website/static/media/fonHackathonLogo.ac38f413.webp"
   },
   {
-    "revision": "5178e9ffbef62d799f54cd520e9d43a4",
-    "url": "/portfolio-website/static/media/lotusflareLogo.5178e9ff.png"
+    "revision": "b453ea619846e43326085082d5570530",
+    "url": "/portfolio-website/static/media/lotusflareLogo.b453ea61.webp"
   },
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
