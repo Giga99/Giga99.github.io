@@ -143,7 +143,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "University of Belgrade, School of Electrical Engineering",
-      logo: require("./assets/images/etfLogo.png"),
+      logo: require("./assets/images/etfLogo.webp"),
       subHeader: "Bachelor of Science in Computer Engineering and Information Theory",
       duration: "September 2018 - July 2022",
       desc: "Studies based on software and a little bit of hardware. Some things that I learned here:",
@@ -185,7 +185,7 @@ const workExperiences = {
     {
       role: "Android Engineer",
       company: "DomainMoney",
-      companylogo: require("./assets/images/domainmoneyLogo.png"),
+      companylogo: require("./assets/images/domainmoneyLogo.webp"),
       date: "Feb 2022 – Present",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
@@ -197,7 +197,7 @@ const workExperiences = {
     {
       role: "Android Engineer",
       company: "LotusFlare",
-      companylogo: require("./assets/images/lotusflareLogo.png"),
+      companylogo: require("./assets/images/lotusflareLogo.webp"),
       date: "Dec 2020 – Feb 2022",
       descBullets: [
         "Set up, created, and developed an app that accumulated more than 1,000,000 users and shows a 99,8% crash-free user rate.",
@@ -208,7 +208,7 @@ const workExperiences = {
     {
       role: "Android Engineer Intern",
       company: "LotusFlare",
-      companylogo: require("./assets/images/lotusflareLogo.png"),
+      companylogo: require("./assets/images/lotusflareLogo.webp"),
       date: "Sept 2020 – Dec 2020",
       descBullets: [
         "Maintaining and introducing new features in the app while keeping more than 99.9% crash-free users.",
@@ -273,8 +273,7 @@ const bigProjects = {
 
 const achievementSection = {
   title: emoji("Achievements And Certifications 🏆 "),
-  subtitle:
-    "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
+  subtitle: "Achievements, Certifications, Award Letters and Some Cool Stuff that I have done !",
 
   achievementsCards: [
     {
@@ -303,7 +302,7 @@ const achievementSection = {
     {
       title: "FON Hackathon Second Place",
       subtitle: "Second place in FON Hackathon, where we in just 24 hours created an Android app, that allows you to track your carbon footprint and gives you tips on how to reduce it.",
-      image: require("./assets/images/fonHackathonLogo.png"),
+      image: require("./assets/images/fonHackathonLogo.webp"),
       footerLink: [
         {
           name: "Hackathon link",

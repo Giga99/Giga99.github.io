@@ -1,6 +1,6 @@
 import React from "react";
 import "./SocialMedia.scss";
-import {socialMediaLinks} from "../../portfolio";
+import { socialMediaLinks } from "../../portfolio";
 
 export default function socialMedia() {
   if (!socialMediaLinks.display) {
@@ -14,6 +14,7 @@ export default function socialMedia() {
           className="icon-button github"
           target="_blank"
           rel="noopener noreferrer"
+          alt="Github"
         >
           <i className="fab fa-github"></i>
           <span></span>
@@ -26,6 +27,7 @@ export default function socialMedia() {
           className="icon-button linkedin"
           target="_blank"
           rel="noopener noreferrer"
+          alt="LinkedIn"
         >
           <i className="fab fa-linkedin-in"></i>
           <span></span>
@@ -38,6 +40,7 @@ export default function socialMedia() {
           className="icon-button google"
           target="_blank"
           rel="noopener noreferrer"
+          alt="Gmail"
         >
           <i className="fas fa-envelope"></i>
           <span></span>
@@ -50,6 +53,7 @@ export default function socialMedia() {
           className="icon-button twitter"
           target="_blank"
           rel="noopener noreferrer"
+          alt="Twitter"
         >
           <i className="fab fa-twitter"></i>
           <span></span>
@@ -62,6 +66,7 @@ export default function socialMedia() {
           className="icon-button medium"
           target="_blank"
           rel="noopener noreferrer"
+          alt="Medium"
         >
           <i className="fab fa-medium"></i>
           <span></span>
@@ -74,6 +79,7 @@ export default function socialMedia() {
           className="icon-button stack-overflow"
           target="_blank"
           rel="noopener noreferrer"
+          alt="StackOverflow"
         >
           <i className="fab fa-stack-overflow"></i>
           <span></span>
