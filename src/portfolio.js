@@ -50,6 +50,7 @@ const socialMediaLinks = {
   medium: "https://medium.com/@igorstevanovic99",
   stackoverflow: "https://stackoverflow.com/users/11478166/giga99",
   twitter: "https://twitter.com/igor_s1999",
+  playStore: "https://play.google.com/store/apps/developer?id=Igor+Stevanovic",
   display: true
 };
 

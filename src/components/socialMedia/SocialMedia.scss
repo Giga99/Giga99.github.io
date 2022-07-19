@@ -40,10 +40,6 @@
   background-color: $github;
 }
 
-.gitlab i {
-  background-color: $gitlab;
-}
-
 .google i {
   background-color: $google;
 }
@@ -60,25 +56,24 @@
   background-color: $stackoverflow;
 }
 
-.kaggle i {
-  background-color: $kaggle;
-}
-
 .instagram i {
   background-color: $instagram;
+}
+
+.play-store i {
+  background-color: $playstore;
 }
 
 /* Hover Transition */
 .twitter i:hover,
 .google i:hover,
-.gitlab i:hover,
 .github i:hover,
 .linkedin i:hover,
 .facebook i:hover,
 .instagram i:hover,
 .stack-overflow i:hover,
-.kaggle i:hover,
-.medium i:hover {
+.medium i:hover,
+.play-store i:hover {
   background-color: $textColor;
 }
 

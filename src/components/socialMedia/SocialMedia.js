@@ -85,6 +85,19 @@ export default function socialMedia() {
           <span></span>
         </a>
       ) : null}
+
+      {socialMediaLinks.playStore ? (
+        <a
+          href={socialMediaLinks.playStore}
+          className="icon-button play-store"
+          target="_blank"
+          rel="noopener noreferrer"
+          alt="Play Store"
+        >
+          <i className="fab fa-google-play"></i>
+          <span></span>
+        </a>
+      ) : null}
     </div>
   );
 }
