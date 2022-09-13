@@ -233,6 +233,17 @@ const bigProjects = {
   subtitle: "SOME APPS THAT I CREATED AND RELEASED",
   projects: [
     {
+      image: require("./assets/images/drawlingLogo.webp"),
+      projectName: "Drawling",
+      projectDesc: "Drawling - Drawling is the next generation's beautifully and simply designed a multiplayer android app where you draw and your friends guess what you drew.",
+      footerLink: [
+        {
+          name: "Visit it on PlayStore",
+          url: "https://play.google.com/store/apps/details?id=com.draw.drawlingandroid"
+        }
+      ]
+    },
+    {
       image: require("./assets/images/movieTrailersLogo.webp"),
       projectName: "MovieTrailers",
       projectDesc: "Movie Trailers - Find your next movie is the new generation beautifully designed an app where you can find various movies to watch. The app is available in the Spanish language too!",
