@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d49bc51e98dfe277e5644777ca2cbb01",
+    "revision": "41cc48fffebee728515f1d9ce16edf06",
     "url": "/portfolio-website/index.html"
   },
   {
-    "revision": "6afef33ec49f77bad186",
+    "revision": "c64ccf737269fec27541",
     "url": "/portfolio-website/static/css/3.ca5fb833.chunk.css"
   },
   {
-    "revision": "96e6e617d6e5d24a5f38",
+    "revision": "b638af34f177f2518110",
     "url": "/portfolio-website/static/css/4.a5fd9e77.chunk.css"
   },
   {
-    "revision": "ce7ef4e5b2d67e314a59",
-    "url": "/portfolio-website/static/css/main.6e98929e.chunk.css"
+    "revision": "9af743f334c52b5f8f2e",
+    "url": "/portfolio-website/static/css/main.42250f30.chunk.css"
   },
   {
-    "revision": "7dfeb1a8585fffcbd656",
-    "url": "/portfolio-website/static/js/2.494f08cd.chunk.js"
+    "revision": "8ddc4fe5291471fa2bd1",
+    "url": "/portfolio-website/static/js/2.75d24a0d.chunk.js"
   },
   {
-    "revision": "6afef33ec49f77bad186",
-    "url": "/portfolio-website/static/js/3.3f7c3ffa.chunk.js"
+    "revision": "c64ccf737269fec27541",
+    "url": "/portfolio-website/static/js/3.6052d81a.chunk.js"
   },
   {
-    "revision": "96e6e617d6e5d24a5f38",
-    "url": "/portfolio-website/static/js/4.9d253d99.chunk.js"
+    "revision": "b638af34f177f2518110",
+    "url": "/portfolio-website/static/js/4.9adf1a8a.chunk.js"
   },
   {
-    "revision": "ce7ef4e5b2d67e314a59",
-    "url": "/portfolio-website/static/js/main.4eca2058.chunk.js"
+    "revision": "9af743f334c52b5f8f2e",
+    "url": "/portfolio-website/static/js/main.64f9266e.chunk.js"
   },
   {
-    "revision": "ee0d2942da640c69ba4b",
-    "url": "/portfolio-website/static/js/runtime-main.31bf38f3.js"
+    "revision": "f0a6e6f47f4dc53035ca",
+    "url": "/portfolio-website/static/js/runtime-main.fd5a5df6.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -54,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b328d0342cec4a83799a16253a532bd7",
     "url": "/portfolio-website/static/media/domainmoneyLogo.b328d034.webp"
+  },
+  {
+    "revision": "d6b2c17a6202b8c6457100984dc16a87",
+    "url": "/portfolio-website/static/media/drawlingLogo.d6b2c17a.webp"
   },
   {
     "revision": "45a268e32ba2c4cf515ff2816db3c91a",
