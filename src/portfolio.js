@@ -21,7 +21,7 @@ const seo = {
   og: {
     title: "Igor Stevanovic Portfolio",
     type: "website",
-    url: "http://igorstevanovic.com/",
+    url: "https://giga99.github.io/portfolio-website/",
   },
 };
 
@@ -37,7 +37,7 @@ const greeting = {
   subTitle: emoji(
     "A passionate Android Engineer 🚀 having an experience of building Mobile applications with Kotlin / Java / Flutter and some other cool libraries and frameworks."
   ),
-  resumeLink: "https://drive.google.com/file/d/1eBhl0Tq1sU7M4Wg73jAmrREoRla-k6zt/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1RHPG9ErJwVRZURONRZQRHGOKyUvfeNhy/view?usp=drivesdk",
   displayGreeting: true
 };
 
@@ -192,7 +192,7 @@ const workExperiences = {
       descBullets: [
         "Developed an app for a high number of users.",
         "Improving the product in every possible way.",
-        "Collaborating with designers, backend team, and ios team to build the best possible product."
+        "Collaborating with designers, backend team, and iOS team to build the best possible product."
       ]
     },
     {
