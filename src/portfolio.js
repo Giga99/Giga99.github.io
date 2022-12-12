@@ -184,11 +184,33 @@ const workExperiences = {
   display: true,
   experience: [
     {
+      role: "Mobile Engineer",
+      company: "ANWB",
+      companylogo: require("./assets/images/anwbLogo.webp"),
+      date: "Nov 2022 – Present",
+      // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      descBullets: [
+        "Developed an app that accumulated more than 1,000,000 users.",
+        "Improving the product in every possible way.",
+        "Collaborating with designers, product, backend, and iOS teams to build the best possible product."
+      ]
+    },
+    {
+      role: "Android Engineer",
+      company: "SwissBorg",
+      companylogo: require("./assets/images/swissborgLogo.webp"),
+      date: "Oct 2022 – Present",
+      descBullets: [
+        "Develop an app that accumulated more than 700,000 users.",
+        "Improving the product in every possible way.",
+        "Collaborating with designers, product, backend, and iOS teams to build the best possible product."
+      ]
+    },
+    {
       role: "Android Engineer",
       company: "DomainMoney",
       companylogo: require("./assets/images/domainmoneyLogo.webp"),
-      date: "Feb 2022 – Present",
-      // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      date: "Feb 2022 – Oct 2022",
       descBullets: [
         "Developed an app for a high number of users.",
         "Improving the product in every possible way.",
