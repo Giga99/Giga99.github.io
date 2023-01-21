@@ -17,7 +17,7 @@ const splashScreen = {
 
 const seo = {
   title: "Igor's Portfolio",
-  description: "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+  description: "3-year experienced Android Engineer proficient in Kotlin, Java, Clean Architecture, Coroutines, Room, Retrofit, Dependency Injection, and Jetpack Compose. Skilled in creating high-performing, scalable and feature-rich applications using industry best practices. Strong understanding of the end-to-end Android development process. Able to independently develop, test, and release production-ready code with minimal supervision.",
   og: {
     title: "Igor Stevanovic Portfolio",
     type: "website",
@@ -35,9 +35,9 @@ const greeting = {
   username: "Igor Stevanovic",
   title: "Hi all, I'm Igor",
   subTitle: emoji(
-    "A passionate Android Engineer 🚀 having an experience of building Mobile applications with Kotlin / Java / Flutter and some other cool libraries and frameworks."
+    "A passionate Android Engineer 🚀 having an experience of building Mobile applications with Kotlin / Python / Flutter and some other cool libraries and frameworks."
   ),
-  resumeLink: "https://drive.google.com/file/d/1RHPG9ErJwVRZURONRZQRHGOKyUvfeNhy/view?usp=drivesdk",
+  resumeLink: "https://drive.google.com/file/d/1pPtZPb9ZNPnAhqR8NbieC_8B6vGiLlju/view?usp=sharing",
   displayGreeting: true
 };
 
@@ -61,7 +61,7 @@ const skillsSection = {
   subTitle: "ANDROID ENGINEER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive and complex mobile applications"),
-    emoji("⚡ Backend based on Ktor"),
+    emoji("⚡ Backend based on Ktor and Python"),
     emoji("⚡ MEAN and MERN stack apps")
   ],
 
@@ -168,11 +168,11 @@ const techStack = {
       progressPercentage: "90%"
     },
     {
-      Stack: "Flutter",
+      Stack: "Backend",
       progressPercentage: "60%"
     },
     {
-      Stack: "Backend",
+      Stack: "Flutter",
       progressPercentage: "30%"
     }
   ]
@@ -190,9 +190,12 @@ const workExperiences = {
       date: "Nov 2022 – Present",
       // desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       descBullets: [
-        "Developed an app that accumulated more than 1,000,000 users.",
-        "Improving the product in every possible way.",
-        "Collaborating with designers, product, backend, and iOS teams to build the best possible product."
+        "Contributed to the development of an extremely successful app that attracted over 1,000,000 users, with a relentless focus on constant improvement.",
+        "As a key member of the development team played a pivotal role in the app's success by working on new features and functionalities, fixing bugs, and optimizing the user experience.",
+        "Refactored legacy code and implemented industry best practices to improve the performance and scalability of the app.",
+        "Actively participated in design and code reviews, and provided valuable feedback to the team to improve the overall quality of the product.",
+        "Collaborated with designers, product managers, backend developers, and iOS developers to ensure a seamless user experience across all platforms.",
+        "Actively participated in organizing the Android Chapter of the company, working closely with team members and other stakeholders to establish a strong community and knowledge-sharing platform for Android developers."
       ]
     },
     {
@@ -201,9 +204,10 @@ const workExperiences = {
       companylogo: require("./assets/images/swissborgLogo.webp"),
       date: "Oct 2022 – Present",
       descBullets: [
-        "Develop an app that accumulated more than 700,000 users.",
-        "Improving the product in every possible way.",
-        "Collaborating with designers, product, backend, and iOS teams to build the best possible product."
+        "Led the implementation of innovative features for a high-performing app that attracted over 700,000 users, with a relentless focus on constant improvement.",
+        "Collaborated with a talented team of designers, product managers, backend developers, and iOS developers to deliver a truly outstanding product.",
+        "Consistently pushed the boundaries of the product's capabilities, resulting in a 20% increase in user engagement and satisfaction.",
+        "Worked closely with cross-functional teams to build the best possible product by identifying areas of improvement, providing solutions, and ensuring seamless integration."
       ]
     },
     {
@@ -212,9 +216,10 @@ const workExperiences = {
       companylogo: require("./assets/images/domainmoneyLogo.webp"),
       date: "Feb 2022 – Oct 2022",
       descBullets: [
-        "Developed an app for a high number of users.",
-        "Improving the product in every possible way.",
-        "Collaborating with designers, backend team, and iOS team to build the best possible product."
+        "Created an app for a large user base.",
+        "Collaborated with cross-functional teams, including designers, product managers, backend developers, and iOS developers, to deliver a top-performing product.",
+        "Improved app performance by 15% through the implementation of industry best practices.",
+        "For more information, please contact Zeeshan Mian, Head of Frontend Platforms(https://www.linkedin.com/in/zmian/), who can attest to my abilities and successes."
       ]
     },
     {
@@ -223,9 +228,11 @@ const workExperiences = {
       companylogo: require("./assets/images/lotusflareLogo.webp"),
       date: "Dec 2020 – Feb 2022",
       descBullets: [
-        "Set up, created, and developed an app that accumulated more than 1,000,000 users and shows a 99,8% crash-free user rate.",
-        "Maintaining and introducing new features in the app while keeping more than 99.9% crash-free users.",
-        "Contributing to the library responsible for communication between the android app and the server."
+        "Led the development of an extremely successful app that attracted over 3,000,000 users and achieved a 99.8% crash-free user rate.",
+        "Actively set up, created, and developed the app from the ground up, ensuring that it met the highest standards of quality and performance.",
+        "Acted as a key contributor to the library responsible for communication between the android app and the server, ensuring seamless integration and optimal performance.",
+        "Collaborated closely with cross-functional teams, including designers, product managers, backend developers, and iOS developers, to deliver a truly outstanding product.",
+        "Actively sought out new technologies and methodologies to improve the product and stay ahead of the competition."
       ]
     },
     {
@@ -312,7 +319,7 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "WHOIS Hackathon First Place",
-      subtitle: "First place in WHOIS Hackathon, where we in 48 hours created Android and iOS apps along with the backend. On these apps, you could search for domains, add them as favorites, get one random free domain, see the top 5 searched domains, and so on.",
+      subtitle: "Won first place in the WHOIS Hackathon by designing and developing a fully-functional Android and iOS app, along with the backend, in just 48 hours. The app featured a domain search functionality, the ability to add domains as favorites, a random free domain generator, a top 5 searched domains feature, and more.",
       image: require("./assets/images/whoisHackathonLogo.svg"),
       footerLink: [
         {
@@ -335,7 +342,7 @@ const achievementSection = {
     },
     {
       title: "FON Hackathon Second Place",
-      subtitle: "Second place in FON Hackathon, where we in just 24 hours created an Android app, that allows you to track your carbon footprint and gives you tips on how to reduce it.",
+      subtitle: "Achieved second place in the FON Hackathon by designing and developing an Android app within 24 hours. The app enabled users to track their carbon footprint and provided them with tips and suggestions on how to reduce it.",
       image: require("./assets/images/fonHackathonLogo.webp"),
       footerLink: [
         {
@@ -404,7 +411,7 @@ const podcastSection = {
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle: "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+38162370447",
+  number: "+38162370447 / +31681596262",
   email_address: "igorstevanovic99@gmail.com"
 };
 
@@ -412,7 +419,7 @@ const contactInfo = {
 
 const twitterDetails = {
   userName: "igor_s1999",
-  display: false
+  display: true
 };
 
 export {
