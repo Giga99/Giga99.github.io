@@ -226,7 +226,7 @@ const workExperiences = {
       role: "Android Engineer",
       company: "LotusFlare",
       companylogo: require("./assets/images/lotusflareLogo.webp"),
-      date: "Dec 2020 – Feb 2022",
+      date: "Dec 2019 – Feb 2022",
       descBullets: [
         "Led the development of an extremely successful app that attracted over 3,000,000 users and achieved a 99.8% crash-free user rate.",
         "Actively set up, created, and developed the app from the ground up, ensuring that it met the highest standards of quality and performance.",
@@ -239,7 +239,7 @@ const workExperiences = {
       role: "Android Engineer Intern",
       company: "LotusFlare",
       companylogo: require("./assets/images/lotusflareLogo.webp"),
-      date: "Sept 2020 – Dec 2020",
+      date: "Sept 2019 – Dec 2019",
       descBullets: [
         "Maintaining and introducing new features in the app while keeping more than 99.9% crash-free users.",
         "Contributing to the library responsible for communication between the android app and the server."
