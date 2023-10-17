@@ -17,7 +17,7 @@ const splashScreen = {
 
 const seo = {
   title: "Igor's Portfolio",
-  description: "3-year experienced Android Engineer proficient in Kotlin, Java, Clean Architecture, Coroutines, Room, Retrofit, Dependency Injection, and Jetpack Compose. Skilled in creating high-performing, scalable and feature-rich applications using industry best practices. Strong understanding of the end-to-end Android development process. Able to independently develop, test, and release production-ready code with minimal supervision.",
+  description: "4-year experienced Android Engineer proficient in Kotlin, Java, Clean Architecture, Coroutines, Room, Retrofit, Dependency Injection, and Jetpack Compose. Skilled in creating high-performing, scalable and feature-rich applications using industry best practices. Strong understanding of the end-to-end Android development process. Able to independently develop, test, and release production-ready code with minimal supervision.",
   og: {
     title: "Igor Stevanovic Portfolio",
     type: "website",
