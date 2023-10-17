@@ -73,10 +73,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "android",
       fontAwesomeClassname: "fab fa-android"
     },
-    // {
-    //   skillName: "kotlin",
-    //   fontAwesomeClassname: "fab fa-kotlin"
-    // },
+    {
+      skillName: "kotlin",
+      fontAwesomeClassname: "fab fa-kotlin"
+    },
     {
       skillName: "java",
       fontAwesomeClassname: "fab fa-java"
